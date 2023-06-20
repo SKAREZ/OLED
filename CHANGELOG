@@ -1,7 +1,8 @@
 Name: OLED
-Version: 1.0.1
+Version: 1.0.2
 Game Version: 1.20/1.20.1
-Link: https://modrinth.com/resourcepack/oled-gui/
+Modrinth: https://modrinth.com/resourcepack/oled-gui/
+CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
 
 OLED is under Apache-2.0 License, learn more about it here: https://www.apache.org/licenses/LICENSE-2.0.txt
 Copyright © 2023 SKAREZ - All rights reserved
@@ -12,7 +13,25 @@ Copyright © 2023 SKAREZ - All rights reserved
 
 
 
-[v1.0.1]
+                                 [v1.0.2]
+
+## Additions:
++ Added colored Shulker Box UI (OptiFine needed)
+
+## Corrections:
++ Corrected Enchanting Table UI
++ Corrected UI text color (English (US) language needed)
+
+## Improvements:
++ Improved looking of Beacon UI
++ Removed "Inventory" label inside player inventories
+
+## Other:
++ Published OLED on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/oled-gui/)
+
+
+
+                                 [v1.0.1]
 
 ## Additions:
 +  Added "CHANGELOG" file
@@ -40,6 +59,6 @@ Copyright © 2023 SKAREZ - All rights reserved
 
 
 
-[v1.0.0]
+                                 [v1.0.0]
 
 - **Initial release**
