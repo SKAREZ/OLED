@@ -22,7 +22,7 @@
 <a href="https://modrinth.com/resourcepack/oled-gui/">
 <img alt="Code" src="https://img.shields.io/badge/MODRINTH-16181C?style=for-the-badge&logo=Modrinth&logoColor=1DB96A">
 </a>
-<a href="https://legacy.curseforge.com/minecraft/texture-packs/oled-gui/">
+<a href="https://curseforge.com/minecraft/texture-packs/oled-gui/">
 <img alt="Code" src="https://img.shields.io/badge/CURSEFORGE-0D0D0D?style=for-the-badge&logo=CURSEFORGE&logoColor=F16436">
 </a>
 <a href="https://discord.gg/jRaEsgNys3">
