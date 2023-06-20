@@ -1,8 +1,8 @@
-<center>
+<p align="center">
 	<p>
 		<img src= "https://i.imgur.com/lgU7FWt.png" alt="OLED" width="999"/>
 	</p>
-</center>
+</p>
 
 ---
 
@@ -13,7 +13,7 @@
 <a href="https://github.com/SKAREZ/oled-gui/issues">
 <img alt="SecurityCompatibility" src="https://img.shields.io/badge/⚠️ ISSUES-0D1117?style=for-the-badge">
 </a>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/SKAREZ/oled-gui/releases">
@@ -33,3 +33,9 @@
 <img alt="User" src="https://img.shields.io/badge/MADE WITH ❤ BY SKAREZ-FF5050?style=for-the-badge">
 </a>
 </p>
+
+<h3 align="center">
+
+If you want to see more details and screenshots, [click here!](https://modrinth.com/resourcepack/oled-gui/gallery)
+
+</h3>
