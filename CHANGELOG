@@ -1,15 +1,27 @@
 Name: OLED
-Version: 1.0.2
+Version: 1.0.3
 Game Version: 1.20/1.20.1
 Modrinth: https://modrinth.com/resourcepack/oled-gui/
 CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
 
-OLED is under Apache-2.0 License, learn more about it here: https://www.apache.org/licenses/LICENSE-2.0.txt
-Copyright © 2023 SKAREZ - All rights reserved
-| YouTube: https://youtube.com/c/SKAREZ
-| Discord: https://discord.gg/jRaEsgNys3
-| Twitter: https://twitter.com/@SKAREZ_Z
-| Twitch https://twitch.tv/SKAR3Z
+
+
+                                 [v1.0.3]
+
+## Additions:
++ Added colored Ender Chest UI (OptiFine needed)
++ Added core shaders for making UI text colors white (Should work for all languages)
+
+## Improvements:
++ Improved Hit Cooldown Hint (Crosshair/Hotbar)
++ Improved colored Shulker Box UI (More accurate/Less flashy)
++ Improved UI of Gamemode Switcher (F3 + F4)
++ Improved Recipe Book UI
++ Improved Beacon UI
+
+## Corrections:
++ Corrected Hearts Icon colors (Poison/Absorption/Hardcore symbol colors...)
++ Removed "Inventory" label inside player inventories for all of the avalaible languages
 
 
 
