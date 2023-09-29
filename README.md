@@ -1,9 +1,7 @@
 [Logo]: <>
 <p align="center">
-	<img src= "https://i.imgur.com/lgU7FWt.png" alt="OLED" width="999"/>
+	<img src= "https://i.imgur.com/nl1ldaf.png" alt="OLED" width="999"/>
 </p>
-
----
 
 [License and Issues tabs]: <>
 <p align="center">
@@ -18,7 +16,7 @@
 [Informations tabs]: <>
 <p align="center">
 	<a href="https://github.com/SKAREZ/oled-gui/releases">
-		<img alt="Version" src="https://img.shields.io/badge/v1.0.3b-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+		<img alt="Version" src="https://img.shields.io/badge/v1.1-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
 	</a>
 	<a href="https://modrinth.com/resourcepack/oled-gui/">
 		<img alt="Code" src="https://img.shields.io/badge/MODRINTH-16181C?style=for-the-badge&logo=Modrinth&logoColor=1DB96A">
@@ -48,7 +46,6 @@ OLED aslo change the font of the game, to make it less blocky and more smoother,
 
 - *You don't necessarily need to have OptiFine for using OLED.*
 - *If you want to play Minecraft having OLED and another rescource pack, be sure to place OLED on top of all resources packs enabled.*
-- *OLED is still a work-in-progress resource pack*
 
 [Preview image and more]: <>
 #  📸 Preview

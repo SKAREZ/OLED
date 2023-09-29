@@ -1,16 +1,27 @@
 Name: OLED
-Version: 1.0.3b
-Game Version: 1.20/1.20.1/1.20.2
+Version: 1.1
+Game Version: 1.20.2
 Modrinth: https://modrinth.com/resourcepack/oled-gui/
 CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
+GitHub: https://github.com/SKAREZ/oled-gui/
 
 
+                                 [v1.1]
 
-                                 [v1.0.3b]
+## Additions:
++ Added a darker texture of the book (Subject to change, I'm not happy with this result)
+
+## Improvements:
++ Improved UI of Gamemode Switcher (F3 + F4)
++ Improved recipe book non-craftable and craftable items frame color (Red/Green)
++ Changed the pack icon, as well as the typo.
 
 ## Other:
-+ Updated for Minecraft 1.20.2
++ Updated for Minecraft 1.20.2 new folders (It was so painfull)
 
+## Notes:
++ A new add-on resource pack for OLED is comming very soon, called "OLED+", it's basically made for mods compatibility, more info when I will release it!
++ OLED is now on a stable state, it's no longer in beta state, consider it as "finished", I will still do modifications and corrections if I need to!
 
 
                                  [v1.0.3]
