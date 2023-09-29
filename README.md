@@ -1,9 +1,7 @@
 [Logo]: <>
 <p align="center">
-	<img src= "https://i.imgur.com/lgU7FWt.png" alt="OLED" width="999"/>
+	<img src= "https://i.imgur.com/nl1ldaf.png" alt="OLED" width="999"/>
 </p>
-
----
 
 [License and Issues tabs]: <>
 <p align="center">
