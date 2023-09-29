@@ -18,7 +18,7 @@
 [Informations tabs]: <>
 <p align="center">
 	<a href="https://github.com/SKAREZ/oled-gui/releases">
-		<img alt="Version" src="https://img.shields.io/badge/v1.0.3-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
+		<img alt="Version" src="https://img.shields.io/badge/v1.0.3b-2C3237?style=for-the-badge&logo=github&logoColor=FFFFFF">
 	</a>
 	<a href="https://modrinth.com/resourcepack/oled-gui/">
 		<img alt="Code" src="https://img.shields.io/badge/MODRINTH-16181C?style=for-the-badge&logo=Modrinth&logoColor=1DB96A">
