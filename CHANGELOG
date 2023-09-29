@@ -8,8 +8,12 @@ GitHub: https://github.com/SKAREZ/oled-gui/
 
                                  [v1.1]
 
+## Additions:
++ Added a darker texture of the book (Subject to change, I'm not happy with this result)
+
 ## Improvements:
 + Improved UI of Gamemode Switcher (F3 + F4)
++ Improved recipe book non-craftable and craftable items frame color (Red/Green)
 + Changed the pack icon, as well as the typo.
 
 ## Other:
