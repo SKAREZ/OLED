@@ -1,16 +1,23 @@
 Name: OLED
-Version: 1.0.3b
-Game Version: 1.20/1.20.1/1.20.2
+Version: 1.1
+Game Version: 1.20.2
 Modrinth: https://modrinth.com/resourcepack/oled-gui/
 CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
+GitHub: https://github.com/SKAREZ/oled-gui/
 
 
+                                 [v1.1]
 
-                                 [v1.0.3b]
+## Improvements:
++ Improved UI of Gamemode Switcher (F3 + F4)
 
 ## Other:
-+ Updated for Minecraft 1.20.2
++ Updated for Minecraft 1.20.2 (It was so painfull)
++ Out of beta state, OLED is now on a stable state, considered "finished"
 
+## Notes:
++ A new add-on resource pack for OLED is comming very soon, called "OLED+", it's basically made for mods compatibility, more info when I will release it!
++ OLED is now on a stable state, it's no longer in beta state, considering it "finished", I will still do modifications and correcitons if I need to!
 
 
                                  [v1.0.3]
