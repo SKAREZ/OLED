@@ -1,10 +1,14 @@
 Name: OLED
-Version: 1.1
-Game Version: 1.20.2
+Version: 1.1.1
+Game Version: 1.20.3
 Modrinth: https://modrinth.com/resourcepack/oled-gui/
 CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
 GitHub: https://github.com/SKAREZ/oled-gui/
 
+                                 [v1.1.1]
+
+## Other:
++ Updated for Minecraft 1.20.3
 
                                  [v1.1]
 
