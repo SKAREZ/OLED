@@ -1,16 +1,22 @@
 Name: OLED
+
 Version: 1.1.1
+
 Game Version: 1.20.3
+
 Modrinth: https://modrinth.com/resourcepack/oled-gui/
+
 CurseForge: https://www.curseforge.com/minecraft/texture-packs/oled-gui/
+
 GitHub: https://github.com/SKAREZ/oled-gui/
 
-                                 [v1.1.1]
+
+# v1.1.1
 
 ## Other:
 + Updated for Minecraft 1.20.3
 
-                                 [v1.1]
+# v1.1
 
 ## Additions:
 + Added a darker texture of the book (Subject to change, I'm not happy with this result)
@@ -28,7 +34,7 @@ GitHub: https://github.com/SKAREZ/oled-gui/
 + OLED is now on a stable state, it's no longer in beta state, consider it as "finished", I will still do modifications and corrections if I need to!
 
 
-                                 [v1.0.3]
+# v1.0.3
 
 ## Additions:
 + Added colored Ender Chest UI (OptiFine needed)
@@ -47,7 +53,7 @@ GitHub: https://github.com/SKAREZ/oled-gui/
 
 
 
-                                 [v1.0.2]
+# v1.0.2
 
 ## Additions:
 + Added colored Shulker Box UI (OptiFine needed)
@@ -64,8 +70,8 @@ GitHub: https://github.com/SKAREZ/oled-gui/
 + Published OLED on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/oled-gui/)
 
 
+# v1.0.1
 
-                                 [v1.0.1]
 
 ## Additions:
 +  Added "CHANGELOG" file
@@ -92,7 +98,6 @@ GitHub: https://github.com/SKAREZ/oled-gui/
  + Improved Survival Icons (Hearts, Armor, Effects...)
 
 
-
-                                 [v1.0.0]
+# v1.0.0
 
 - **Initial release**
