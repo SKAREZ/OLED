@@ -1,4 +1,5 @@
 {
-  "container.inventory": "§r",
-  "gui.recipebook.search_hint": "§r"
+    "container.brewing":"\u00a7f\ueff1\u00a7r              \u10e1\u10d0\u10ee\u10d0\u10e0\u10e8\u10d8 \u10e5\u10e3\u10e0\u10d0              \u00a7f\ueff2",
+    "container.inventory": "§r",
+    "gui.recipebook.search_hint": "§r"
 }

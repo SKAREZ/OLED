@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 22,
-    "description": "§8[v1.1.1] §7A clean and simplistic oled dark mode for Minecraft."
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 34
+    },
+    "description": "§l◆ §7Dark theme for Minecraft UI\n§8Made by §8@SKAREZ_Z"
   }
 }
